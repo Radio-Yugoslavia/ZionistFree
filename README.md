@@ -6,4 +6,4 @@ For MacOS, LittleSnitch is one of the most famous firewalls and creating a rule 
 ![image](https://github.com/user-attachments/assets/ddba3fd3-a7b7-4e92-a452-640e5f7ed304)
 ![image](https://github.com/user-attachments/assets/ba4fae3a-083e-4f93-8d18-ad028b0ca019)
 
-ℹ️ These are not all IP addresses, however, it's plenty for you to block all peer-to-peer sharing and such.
+ℹ️ These are not all IP addresses, however, it's plenty for you to block all peer-to-peer sharing and such. [Use this IP address list here](https://github.com/Radio-Yugoslavia/ZionistFree/blob/main/israel-ip-address-list), feel free to update if you can gather more data please.
